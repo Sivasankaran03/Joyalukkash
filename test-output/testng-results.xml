@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-12T14:20:59 IST" name="Default suite" finished-at="2023-10-12T14:22:12 IST" duration-ms="73223">
+    <groups>
+    </groups>
+    <test started-at="2023-10-12T14:20:59 IST" name="Default test" finished-at="2023-10-12T14:22:12 IST" duration-ms="73223">
+      <class name="testCase.Tc01">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testCase.Tc01@25ce9dc4]" started-at="2023-10-12T14:21:01 IST" name="beforemethod" finished-at="2023-10-12T14:22:07 IST" duration-ms="65396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="login_testcase()[pri:0, instance:testCase.Tc01@25ce9dc4]" started-at="2023-10-12T14:22:07 IST" name="login_testcase" finished-at="2023-10-12T14:22:12 IST" duration-ms="5077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_testcase -->
+      </class> <!-- testCase.Tc01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
